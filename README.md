@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+---
 <!--
 **cnxw4570123/cnxw4570123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxw4570123&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnxw4570123)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnxw4)](https://solved.ac/cnxw4/)
+
+---
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cnxw4570123&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnxw4570123&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+
+
